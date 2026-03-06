@@ -22,5 +22,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ![Page1](./screenshot/page2.png)
 
+## deploy link
+https://cine-stream-liart.vercel.app/
+
 
 
